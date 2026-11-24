@@ -8,7 +8,7 @@ A small, multi-page web app built in the _Introduction to Web Development_ cours
 
 > **Note:** This course gives a certificate of **participation only**. It is not an accreditation or proof of competency.
 
-## What it is
+## What it is |
 
 _One or two sentences: what does your app do and who is it for?_
 
