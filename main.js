@@ -26,3 +26,7 @@ const APP_VERSION = "0.0.0"; // Keep in sync with your git tag.
     // docs code here
   }
 })();
+
+(function greet(name = "Customer") {
+  return "Welcome, " + name + "!";
+});
